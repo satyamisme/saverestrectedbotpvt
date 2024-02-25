@@ -13,15 +13,15 @@
     "success_url": "https://t.me/save_restricted",
     "env": {
             "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "00d42b460cef01c13d97dad1f417194e",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "19987622",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "5587381762:AAFn1SttATDWuuPlEqFslZx9aeKaEZC0YbU",
             "value": ""
         },
         "SESSION": {
@@ -29,11 +29,11 @@
             "value": ""
         },
         "AUTH": {
-            "description": "User ID of Bot owner.",
+            "description": "21040638",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "@Movies_broadcast_delete@Genesis",
             "value": ""
         }
     },
